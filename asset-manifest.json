@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/better-buyer-web/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/better-buyer-web/static/js/main.2116430d.chunk.js",
+    "main.js.map": "/better-buyer-web/static/js/main.2116430d.chunk.js.map",
+    "runtime-main.js": "/better-buyer-web/static/js/runtime-main.9e0aed49.js",
+    "runtime-main.js.map": "/better-buyer-web/static/js/runtime-main.9e0aed49.js.map",
+    "static/js/2.a5ae3349.chunk.js": "/better-buyer-web/static/js/2.a5ae3349.chunk.js",
+    "static/js/2.a5ae3349.chunk.js.map": "/better-buyer-web/static/js/2.a5ae3349.chunk.js.map",
+    "static/js/3.5d1adbf3.chunk.js": "/better-buyer-web/static/js/3.5d1adbf3.chunk.js",
+    "static/js/3.5d1adbf3.chunk.js.map": "/better-buyer-web/static/js/3.5d1adbf3.chunk.js.map",
+    "index.html": "/better-buyer-web/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/better-buyer-web/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.a5ae3349.chunk.js.LICENSE.txt": "/better-buyer-web/static/js/2.a5ae3349.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0aed49.js",
+    "static/js/2.a5ae3349.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.2116430d.chunk.js"
+  ]
+}
